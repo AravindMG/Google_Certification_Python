@@ -7,3 +7,5 @@ if __name__ == "__main__":
     area_b = area_of_triangle(7, 8)
     area_c = area_a + area_b
     print(area_c)
+    print("big" > "small")
+    print(11 % 5)
